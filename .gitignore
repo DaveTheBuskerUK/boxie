@@ -1,0 +1,4 @@
+## arguments to list items to be ignored
+ saved_variables.cfg
+ adxl_results/belts/*.csv
+ adxl_results/vibrations/*.tar.gz
